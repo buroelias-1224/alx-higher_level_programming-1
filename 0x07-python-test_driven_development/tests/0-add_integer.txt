@@ -1,17 +1,5 @@
-The add_integer module
-==========================
-"""
-    The following are tests for 0-add_integer.py
-"""
-
-----------------------------------------
-import module
-----------------------------------------
 >>> add_integer = __import__('0-add_integer').add_integer
 
-----------------------------------------
-Tests
-----------------------------------------
 >>> add_integer(1, 2)
 3
 
