@@ -1,8 +1,7 @@
 #!/usr/bin/node
 
-const arrayVariable = `C is fun
+const myVar = `C is fun
 Python is cool
-avaScript is amazing`;
+JavaScript is amazing`;
 
-console.log(arrayVariable);
-
+console.log(myVar);
