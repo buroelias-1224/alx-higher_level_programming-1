@@ -2,8 +2,8 @@
 
 const myVar = process.argv[2];
 
-if (myVar == null && myVar==undefined){
+if (myVar == null && myVar == undefined){
 	console.log('No argument');
-}else{
+} else {
 	console.log(myVar);
 }
