@@ -4,5 +4,5 @@ const arrayVariable = `C is fun
 Python is cool
 avaScript is amazing`;
 
-console.log(arrayVariable)
+console.log(arrayVariable);
 
