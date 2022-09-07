@@ -4,7 +4,7 @@ const argv = process.argv;
 
 const entry = Math.floor(argv[2]);
 if (isNaN(entry)) {
- console.log('Not a number');
+  console.log('Not a number');
 } else {
- console.log(`My number: ${entry}`);
+  console.log(`My number: ${entry}`);
 }
