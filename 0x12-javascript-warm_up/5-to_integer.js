@@ -9,4 +9,3 @@ if (isNaN(entry)) {
 } else {
 	console.log(`My number: ${entry}`);
 }
-
