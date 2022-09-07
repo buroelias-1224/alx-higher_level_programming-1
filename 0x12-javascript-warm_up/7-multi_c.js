@@ -10,5 +10,4 @@ if (isNaN(convertedVar)) {
   for (let i = 0; i < convertedVar; i++) {
     console.log('C is fun');
   }
-
 }
